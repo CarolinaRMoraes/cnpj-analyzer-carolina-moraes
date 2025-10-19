@@ -4,19 +4,6 @@ Este projeto realiza a **análise automatizada de empresas a partir do CNPJ**, i
 
 ---
 
-## 📋 Sumário
-
-* [Visão Geral](#-visão-geral)
-* [Arquitetura do Projeto](#-arquitetura-do-projeto)
-* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Instalação e Configuração](#-instalação-e-configuração)
-* [Como Executar o Projeto](#-como-executar-o-projeto)
-* [Estrutura de Pastas](#-estrutura-de-pastas)
-* [Exemplo de Execução](#-exemplo-de-execução)
-* [Licença](#-licença)
-
----
-
 ## 💡 Visão Geral
 
 O **Analisador de CNPJ** é uma ferramenta criada para automatizar a coleta e análise de informações de empresas registradas no Brasil.
