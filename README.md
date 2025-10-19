@@ -2,7 +2,7 @@
 
 Este projeto realiza a **análise automatizada de empresas a partir do CNPJ**, integrando uma **interface Tkinter**, uma **API de consulta (CNPJA)** e **agentes inteligentes do framework CrewAI** para processar, organizar e exibir os resultados de forma clara e acessível.
 
----
+
 
 ## 💡 Visão Geral
 
@@ -13,7 +13,7 @@ A aplicação possui uma interface gráfica simples desenvolvida com **Tkinter**
 
 Documentação completa e DEMO: https://drive.google.com/drive/folders/1VbvpMHM_l2jTf77T-VMXbneZUxg5vrlO?usp=sharing
 
----
+
 
 ## 🧩 Arquitetura do Projeto
 
@@ -27,7 +27,7 @@ Documentação completa e DEMO: https://drive.google.com/drive/folders/1VbvpMHM_
 3. Os **agentes CrewAI** processam as informações.
 4. Os dados são organizados e exibidos de forma legível.
 
----
+
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -37,7 +37,7 @@ Documentação completa e DEMO: https://drive.google.com/drive/folders/1VbvpMHM_
 * **CrewAI** → Criação e orquestração de agentes de IA
 * **dotenv** → Gerenciamento de variáveis de ambiente
 
----
+
 
 ## 🚀 Instalação e Configuração
 
@@ -70,7 +70,7 @@ Crie um arquivo `.env` na raiz do projeto com o seguinte formato:
 OPENAI_API_KEY=sua_chave_aqui
 ```
 
----
+
 
 ## ▶️ Como Executar o Projeto
 
@@ -83,7 +83,6 @@ python main.py
 A interface gráfica será aberta.
 Basta inserir um **CNPJ válido** para iniciar a análise.
 
----
 
 ## 📁 Estrutura de Pastas
 
@@ -97,7 +96,6 @@ Basta inserir um **CNPJ válido** para iniciar a análise.
 └── 📄 README.md             # Este arquivo
 ```
 
----
 
 ## 🧪 Exemplo de Execução
 
@@ -113,7 +111,6 @@ Basta inserir um **CNPJ válido** para iniciar a análise.
 4. Os agentes da CrewAI analisam e formatam o resultado, exibindo-o na tela.
 
 
----
 
 ## 📜 Licença
 
