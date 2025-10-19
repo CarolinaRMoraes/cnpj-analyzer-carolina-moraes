@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ### 4. Configure as variáveis de ambiente
 
-Crie um arquivo `.env` na raiz do projeto com o seguinte formato:
+Crie um arquivo `.env` na raiz do projeto com o seguinte formato (Chave OPENAI):
 
 ```env
 OPENAI_API_KEY=sua_chave_aqui
