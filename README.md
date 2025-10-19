@@ -43,11 +43,6 @@ Documentação completa e DEMO: https://drive.google.com/drive/folders/1VbvpMHM_
 
 ### 1. Clone o repositório
 
-```bash
-git clone https://github.com/seu-usuario/analise-cnpj.git
-cd analise-cnpj
-```
-
 ### 2. Crie e ative o ambiente virtual
 
 ```bash
