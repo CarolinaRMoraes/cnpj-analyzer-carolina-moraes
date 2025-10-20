@@ -4,7 +4,7 @@ Este projeto realiza a **análise automatizada de empresas a partir do CNPJ**, i
 
 A Prova de Conceito (POC) abrangeu todo o ciclo de desenvolvimento do sistema, desde a implementação da lógica de análise no backend até a criação da interface interativa com o usuário. No entanto, não foram realizados testes estruturados conforme proposto na documentação final.
 
-Os logs atualmente implementados têm caráter informativo e de depuração, auxiliando apenas no acompanhamento do fluxo de execução durante o desenvolvimento. Em versões futuras, será necessário o aperfeiçoamento desses mecanismos de registro para possibilitar auditoria completa, rastreabilidade das decisões e conformidade operacional.
+Os logs atualmente implementados têm caráter informativo e de depuração, auxiliando apenas no acompanhamento do fluxo de execução durante o desenvolvimento. Em versões futuras, será necessário o aperfeiçoamento desses mecanismos de registro para possibilitar auditoria completa.
 
 
 ## 💡 Visão Geral
