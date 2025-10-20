@@ -101,10 +101,10 @@ Basta inserir um **CNPJ válido** para iniciar a análise.
 2. Digita o CNPJ: `12.345.678/0001-99`.
 3. O sistema consulta a API e retorna informações como:
 
-   * **Razão social**
-   * **Endereço**
-   * **Situação cadastral**
-   * **CNAE principal e secundários**
+   * **Atividade principal**
+   * **Status**
+   * **Capital Social**
+   * **CNAE**
    * **Data de abertura**
 4. Os agentes da CrewAI analisam e formatam o resultado, exibindo-o na tela.
 
