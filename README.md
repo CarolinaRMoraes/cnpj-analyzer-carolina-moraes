@@ -2,6 +2,9 @@
 
 Este projeto realiza a **análise automatizada de empresas a partir do CNPJ**, integrando uma **interface Tkinter**, uma **API de consulta (CNPJA)** e **agentes inteligentes do framework CrewAI** para processar, organizar e exibir os resultados de forma clara e acessível.
 
+A Prova de Conceito (POC) abrangeu todo o ciclo de desenvolvimento do sistema, desde a implementação da lógica de análise no backend até a criação da interface interativa com o usuário. No entanto, não foram realizados testes estruturados conforme proposto na documentação final.
+
+Os logs atualmente implementados têm caráter informativo e de depuração, auxiliando apenas no acompanhamento do fluxo de execução durante o desenvolvimento. Em versões futuras, será necessário o aperfeiçoamento desses mecanismos de registro para possibilitar auditoria completa, rastreabilidade das decisões e conformidade operacional.
 
 
 ## 💡 Visão Geral
