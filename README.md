@@ -112,7 +112,6 @@ Basta inserir um **CNPJ válido** para iniciar a análise.
 
 ## 📜 Licença
 
-Este projeto foi desenvolvido para o **Processo Seletivo - Analista de Inteligência Artificial Júnior (Multiagentes)**.  
 
 É distribuído sob a licença **MIT**, permitindo que você use, modifique e distribua o código livremente.
 
