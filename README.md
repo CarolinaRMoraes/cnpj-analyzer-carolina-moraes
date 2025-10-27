@@ -14,7 +14,6 @@ Ele utiliza a **API CNPJA** para obter dados e emprega **agentes inteligentes (C
 
 A aplicação possui uma interface gráfica simples desenvolvida com **Tkinter**, onde o usuário insere um CNPJ e recebe um relatório detalhado da empresa.
 
-Documentação completa e DEMO: https://drive.google.com/drive/folders/1VbvpMHM_l2jTf77T-VMXbneZUxg5vrlO?usp=sharing
 
 
 
